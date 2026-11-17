@@ -1,0 +1,14 @@
+﻿streamlit
+geopandas
+rasterio
+shapely
+pyogrio
+pyproj
+pandas
+numpy
+matplotlib
+folium
+streamlit-folium
+mapclassify
+xyzservices
+jupyter
